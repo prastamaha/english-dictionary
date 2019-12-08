@@ -4,4 +4,6 @@ program ini akan meminta masukan berupa kata dengan bahasa inggris, lalu akan me
 
 jalankan program dengan metode berikut
 
-    
+    git clone https://github.com/prastamaha/english-dictionary.git
+    cd english-dictionary
+    python3 app.py
